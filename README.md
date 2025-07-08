@@ -2,7 +2,7 @@
 
 I'm Nelson, a hands-on Software Engineer.
 
-## ⚡ Technologies
+## 🚀 Technologies
 
 These are some of the technologies and tools that I work with:
 
