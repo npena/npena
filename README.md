@@ -7,6 +7,8 @@ I'm Nelson, a hands-on Software Engineer.
 These are some of the technologies and tools that I work with:
 
 Backend: 
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120?logo=c-sharp&logoColor=white)
 
 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
